@@ -1,9 +1,4 @@
 .circle {
     border-radius: 50%;
-    /* background-color: rgb(54, 87, 9); */
-}
-
-.wrapper {
-    background-color: brown;
-    overflow: hidden;
+    position: absolute;
 }

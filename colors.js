@@ -8,7 +8,6 @@ function setStyles(colors, windowDim, numCircles) {
         element.style.width = rad
         element.style.height = rad
         element.style.backgroundColor = colors[i]
-        element.style.position = 'absolute'
         element.style.left = `${windowPct * i}%`
     }
 }
